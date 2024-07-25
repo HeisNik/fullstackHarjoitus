@@ -1,0 +1,2 @@
+# fullstackHarjoitus
+ensimmäinen fullstack sovellus
