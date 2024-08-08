@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/notes/66b0d69c5d893d0093238159
+Content-Type: application/json
+
+{
+    "content": "Rest Client is good in testing backend",
+    "important": true
+}
